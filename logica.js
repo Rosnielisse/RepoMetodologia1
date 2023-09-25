@@ -1,6 +1,6 @@
 alert("I want to see this in my first page.");
-newFunction();
+newMensaje();
 
-function newFunction() {
+function newMensaje() {
     console.log("I want to see this in console.");
 }
